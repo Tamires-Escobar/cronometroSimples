@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    grid-template-areas: "CronometroDigital";
+    background-color: #cfcfcb;
+}

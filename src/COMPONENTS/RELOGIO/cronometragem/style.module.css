@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.tempo{
+    color: rgb(250, 1, 1);
+    margin-top: -10px;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 10px;
+}
+.areaBtn{
+    align-items: center;
+    justify-content: center;
+    margin-left: -10px;
+    
+}
+.botao{
+    margin-top: 10px;
+    border-radius: 50px;
+    background-color: #242323d3;
+    color: rgb(190, 189, 192);
+    margin-left: 2px;
+    margin-right: 4px;
+    width: 85px;
+    font-size: 18px;
+    border: 2px;
+    
+   
+    
+}
