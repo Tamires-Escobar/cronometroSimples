@@ -43,7 +43,7 @@ $ npm start
 
 **Tamires Escobar**
 
-- Github: [@TamiresEscobar](https://github.com/Tamires-Escobar)
+- Github:: [@TamiresEscobar](https://github.com/Tamires-Escobar)
 - LinkedIn: [@TamiresEscobar](https://www.linkedin.com/in/tamires-escobar-b5778399/)
 
 ---
